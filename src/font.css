@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Soehne';
+  src: local('Soehne'), url('./fonts/SohneFont/WebFonts/soehne-breit-web-dreiviertelfett.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Soehne2';
+  src: local('Soehne2'), url('./fonts/SohneFont/WebFonts//soehne-breit-web-fett.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Copernicus';
+  src: local('Copernicus'), url('./fonts/GalaxieCopernicus/Webfont/GalaxieCopernicus-Book.woff') format('woff');
+}
+
+.p {
+  font-family: 'Copernicus';
+}

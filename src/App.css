@@ -1,5 +1,8 @@
+@import 'font.css';
+
 .App {
   text-align: center;
+  font-family: 'Soehne';
 }
 
 .App-logo {

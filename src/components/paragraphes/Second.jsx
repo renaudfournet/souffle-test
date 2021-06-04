@@ -6,7 +6,7 @@ function First() {
     <>
       <h2 style={{ color: '#FA5C26', marginTop: '50px' }}>2</h2>
       <h3 style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', fontSize: '30px' }}>CHOISIR LES MATERIAUX LES PLUS NOBLES ET PRODUIRE EN FRANCE</h3>
-      <div style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', marginBottom: '30px' }}>
+      <div style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', marginBottom: '30px', fontFamily: 'Copernicus' }}>
         <p>
           Les plus beaux produits de notre terroir méritent d'être cuisinés dans des ustensiles de grande qualité. C'est la raison pour laquelle nous avons noué un partenariat avec un fabricant historique de la région vosgienne pour vous proposer des
           produits faits pour la vie, à la qualité irréprochable.

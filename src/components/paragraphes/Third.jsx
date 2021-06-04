@@ -6,7 +6,7 @@ function Third() {
     <>
       <h2 style={{ color: '#FA5C26', marginTop: '50px' }}>3</h2>
       <h3 style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', fontSize: '30px' }}>VOUS DONNER ENVIE DE RECEVOIR</h3>
-      <div style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', marginBottom: '30px' }}>
+      <div style={{ color: '#1408D4', marginLeft: '230px', marginRight: '230px', marginTop: '20px', marginBottom: '30px', fontFamily: 'Copernicus' }}>
         <p>
           Notre mission : vous reconnecter ensemble autour de la cuisine, dans la cuisine. Nous avons mis le coeur pour designer des produits aussi fonctionnels que beaux. Et nous espérons qu'ils vous donneront envie de recevoir pour épater et Soufflé vos
           proches.
