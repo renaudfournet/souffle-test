@@ -2,14 +2,14 @@ import './App.css'
 import Footer from './components/Footer'
 import Header from './components/Header'
 import Menu from './components/Menu'
-import Main from './components/paragraphes/Main'
+import Container from './components/paragraphes/Container'
 
 function App() {
   return (
     <div className="App">
       <Menu />
       <Header />
-      <Main />
+      <Container />
       <Footer />
     </div>
   )
