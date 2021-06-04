@@ -14,7 +14,7 @@ function First() {
           d'innocuité alimentaire.
         </p>
       </div>
-      <img style={{ width: '100%' }} src={first} alt="first" />
+      <img style={{ width: '100%', paddingRight: '30px', paddingLeft: '30px' }} src={first} alt="first" />
     </>
   )
 }

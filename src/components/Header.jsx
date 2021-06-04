@@ -4,7 +4,7 @@ import header from '../images/SouffleIllustrations/PillarIllustrations/Illustrat
 function Header() {
   return (
     <div>
-      <h2 style={{ letterSpacing: '2px', color: '#FA5C26', position: 'absolute', top: '20%', left: '10%x', width: '20%', textAlign: 'left', fontWeight: 'bold' }}>POUR QUE LA CUISINE SOIT AU COEUR DE NOS VIES</h2>
+      <h2 style={{ letterSpacing: '2px', color: '#FA5C26', position: 'absolute', top: '20%', left: '10%', width: '20%', textAlign: 'left', fontWeight: 'bold' }}>POUR QUE LA CUISINE SOIT AU COEUR DE NOS VIES</h2>
       <img style={{ width: '100%' }} src={header} alt="Logo" />
     </div>
   )

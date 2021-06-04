@@ -13,7 +13,7 @@ function First() {
         </p>
         <p>Et comme redynamiser le tissu industriel français est au coeur de notre stratégie, nous sommes parmi les seuls à fabriquer l'ensemble des composants de nos produits en France.</p>
       </div>
-      <img style={{ width: '100%' }} src={first} alt="first" />
+      <img style={{ width: '100%', paddingRight: '30px', paddingLeft: '30px' }} src={first} alt="first" />
     </>
   )
 }
