@@ -8,7 +8,7 @@ const Menu = props => {
     <div>
       <Navbar style={{ backgroundColor: '#1408D4' }} light expand="mr-auto" fixed="top">
         <NavbarBrand>
-          <img style={{ width: '30%' }} src={logo} alt="first" />
+          <img style={{ width: '40%' }} src={logo} alt="first" />
         </NavbarBrand>
         <Nav className="d-flex flex-row bd-highlight" navbar>
           <NavItem>
@@ -19,7 +19,7 @@ const Menu = props => {
           </NavItem>
           <NavItem>
             <NavLink style={{ marginRight: '50px', marginLeft: '50px', marginTop: '5px' }}>
-              <img style={{ width: '90%' }} src={shop} alt="first" />
+              <img style={{ width: '80%' }} src={shop} alt="first" />
             </NavLink>
           </NavItem>
         </Nav>

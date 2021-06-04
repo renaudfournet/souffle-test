@@ -12,7 +12,3 @@
   font-family: 'Copernicus';
   src: local('Copernicus'), url('./fonts/GalaxieCopernicus/Webfont/GalaxieCopernicus-Book.woff') format('woff');
 }
-
-.p {
-  font-family: 'Copernicus';
-}
